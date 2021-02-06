@@ -95,7 +95,7 @@ la page de détail: Il montre les 50 meilleures ventes de tous les département.
 &nbsp; 
 ![png](img_presentation/la%20page%20de%20détail2.png)
 &nbsp; 
-![png](img_presentation/la%20page%20de%20détail3.png)
+![png](img_presentation/la%20page%20de%20détail.png)
 
  &nbsp; 
  &nbsp;
