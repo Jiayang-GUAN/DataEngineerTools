@@ -36,7 +36,8 @@ E:\documents\DSIA_4201C - Data engineering\Projet>flask run
  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
 
 ```
-Entrez http://127.0.0.1:5000/, puis vous pouvez voir la page d'accueil.
+Entrez http://127.0.0.1:5000/, puis vous pouvez voir la page d'accueil. Il montre les 3 meilleures ventes de tous les département. Ensuite, vous pouvez cliquer sur «affiche plus» d'un département pour afficher les classements plus détaillés de ce département. Et vous pouvez également rechercher les classements détaillés d'un département via la fonction de recherche.
+Les fonctions détaillées sont affichées dans la section de [Présentation](#présentation)(Vous pouvez cliquer ici pour sauter au présentation).
 
 ## Structure du projet 
 
@@ -47,6 +48,7 @@ Ce projet est composé de Scrapy, MongoDB et flask.
 Ficher et dossiers: amazonSpider, scrapy.cfg, app.py
 
 amazonSpider
+<br/>
 Il contient deux spiders et deux pipelines et un middleware.
 spider "amazon" est pour crawler les 3 meilleures ventes de tous les département, pipeline "AmazonspiderPipeline" télécharge les données et les images pour spider "amazon".
 spider "departement" est pour crawler les 50 meilleures ventes d'un département, pipeline "departPipeline" télécharge les données et les images pour spider "departement".
