@@ -100,7 +100,7 @@ La page de détail montre les 50 meilleures ventes du département lorque que l'
 &nbsp; 
 ![png](img_presentation/la%20page%20de%20détail2.png)
 &nbsp; 
-![png](img_presentation/la%20page%20de%20détail.png)
+![png](img_presentation/la%20page%20de%20détail3.png)
 
  &nbsp; 
  &nbsp;
